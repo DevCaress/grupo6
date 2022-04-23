@@ -1,0 +1,23 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+}
+.card{
+    background-color: gray;
+    height: 610px;
+    width: 419px;
+    padding-top: 5.1rem;
+}
+
+.card .img{
+    margin:2rem auto 0;
+    border: 8px solid rgb(175, 174, 174);
+    width: 76%;
+    height: 312px;
+    background-image: url(../img/cards/IMG-20211005-WA0001.jpg);
+    background-position: 50% 38%;
+}

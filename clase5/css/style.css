@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form input{
+    margin: .5rem 0;
+}
+
+.form .btn{
+    padding: .5rem 1.25rem;
+    text-align: center;
+    border: 2px solid blueviolet;
+    text-transform: uppercase;
+    color: blueviolet;
+    border-radius: 5px;
+}
+
+.form .btn:hover{
+    cursor: pointer;
+    background-color: blueviolet;
+    color: #fff;
+}
+
+
+.users div{
+    margin: 1rem;
+    border: 1px solid black;
+    padding: 1rem;
+    border-radius: 10px;
+}

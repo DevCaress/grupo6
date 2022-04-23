@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+.info{
+    padding: 1rem;
+}
+
+.info #data{
+    font-size: 1.3rem;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.info .btn{
+    padding: .5rem;
+    background-color: blueviolet;
+    color: #fff;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+}
