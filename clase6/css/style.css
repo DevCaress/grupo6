@@ -21,3 +21,12 @@ body{
     background-image: url(../img/cards/IMG-20211005-WA0001.jpg);
     background-position: 50% 38%;
 }
+
+
+
+
+.boton{
+    padding: 1rem;
+    background-color: blue;
+    color: #fff;
+}

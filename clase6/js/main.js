@@ -166,3 +166,16 @@ var tiktokers = [
 
 
         
+
+
+
+{/* <div id="app"></div>
+<div class="card">
+    <div class="title"></div>
+
+    <div class="stars"></div>
+
+    <div class="img"></div>
+
+    <div class="info"></div>
+</div> */}
