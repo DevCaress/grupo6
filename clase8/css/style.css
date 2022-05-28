@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+body{
+    padding: 2rem;
+    text-align: center;
+}
+
+input{
+    margin-bottom: 1rem;
+}
+
+div{
+    background-color: blue;
+    color: #fff;
+    font-weight: bold;
+    width: 40%;
+    margin: auto;
+    cursor: pointer;
+    padding: 1rem 1.5rem;
+}
